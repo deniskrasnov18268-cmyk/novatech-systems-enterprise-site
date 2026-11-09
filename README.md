@@ -62,3 +62,11 @@ pnpm test           # Application tests
 ## Portfolio context
 
 The project was designed as a polished enterprise-tech portfolio piece to showcase frontend development, product UX, responsive design, interaction design, and presentation of complex B2B product narratives.
+
+## Ownership
+
+Copyright © 2026 `deniskrasnov18268-cmyk`. All rights reserved.
+
+This repository and its original source code, visual design, written content, layout, and custom assets are portfolio work owned by the repository owner. No permission is granted to copy, redistribute, modify, or reuse the project commercially without prior written permission.
+
+See [`NOTICE.md`](NOTICE.md) for the full ownership notice.
